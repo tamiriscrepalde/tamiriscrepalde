@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Hi there! I'm a machine learning engineer constantly looking to expand my knowledge in AI.<br><br><br>
+Hi there! I'm a Data Scientist constantly looking to expand my knowledge in AI.<br><br><br>
 [![](https://visitcount.itsvg.in/api?id=tamiriscrepalde&icon=7&color=4)](https://visitcount.itsvg.in)
 
 
