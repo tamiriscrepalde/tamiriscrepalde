@@ -21,11 +21,11 @@ Hi there! I'm a Data Scientist constantly looking to expand my knowledge in AI.<
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&style=flat&logoColor=white)
 
 
-
+<!--
 ### 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tamiriscrepalde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamiriscrepalde&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-
+-->
 
 ---
 
